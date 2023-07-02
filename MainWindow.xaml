@@ -10,9 +10,9 @@
         <Label x:Name="Label1" Content="Enter a name: " HorizontalAlignment="Left" Margin="72,75,0,0" VerticalAlignment="Top" FontSize="14"/>
         <TextBox x:Name="NameBox" HorizontalAlignment="Left" Margin="191,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" FontSize="14"/>
         <Button Content="Enter" HorizontalAlignment="Left" Margin="531,78,0,0" VerticalAlignment="Top" FontSize="14" Width="100" Click="Button_Click_1"/>
-        <Button Content="Exit" HorizontalAlignment="Left" Margin="531,360,0,0" VerticalAlignment="Top" FontSize="14" Width="100" Click="Button_Click"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="531,320,0,0" VerticalAlignment="Top" FontSize="14" Width="100" Click="Button_Click"/>
         <TextBlock x:Name="TextBlock1" HorizontalAlignment="Left" Margin="191,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="216" Width="303"/>
-        <Button x:Name="SortBtn" Content="Sort" HorizontalAlignment="Left" Margin="531,124,0,0" VerticalAlignment="Top" FontSize="14" Width="100" Click="SortBtn_Click"/>
+        <Button x:Name="SortBtn" Content="Sort" HorizontalAlignment="Left" Margin="531,142,0,0" VerticalAlignment="Top" FontSize="14" Width="100" Click="SortBtn_Click"/>
 
     </Grid>
 </Window>
